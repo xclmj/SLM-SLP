@@ -4,4 +4,4 @@
       
       In this repository includes two folders to separetly construct surrogate model for Gaussian parameters and non-Gaussian binary facies system. Those codes are used for our recent submission titled "Surrogate-Based Joint Estimation of Subsurface Geological and Relative Permeability Parameters for High-Dimensional Inverse Problem by Use of Smooth Local Parameterization" to Water Resources Research.
       
-      Please contact Cong Xiao (email: C.Xiao@tudelft.nl) if you have any questions.
+      To run the code, you also need to down load MRST (Lie et al, 2012). and put our provided files to its the root directory. Please contact Cong Xiao (email: C.Xiao@tudelft.nl) if you have any questions.  
